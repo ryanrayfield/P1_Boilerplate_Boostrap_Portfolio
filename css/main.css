@@ -94,7 +94,9 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.menuheader{
+    padding: 10px
+}
  .myname{
      font-family: 'Lato', sans-serif;
      font-weight: 100;
@@ -104,19 +106,26 @@ textarea {
 
  .subtitle{
      font-family: 'Lato', sans-serif;
-     font-size: 245px;
+     font-size: 20px;
      font-weight: 400;
      color: grey;
  }   
 
- h3{
+ .featured{
      font-family: 'Lato', sans-serif;
+     font-size: 30px;
+     font-weight: 400;
+     color: lightgray;
  }   
  
- h4{
+ .featureddetail{
      font-family: 'Lato', sans-serif;
      
  }   
+ 
+ .mutedlink{
+     color: gray
+ }
 
 
 

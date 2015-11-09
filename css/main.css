@@ -60,6 +60,7 @@ img,
 svg,
 video {
     vertical-align: middle;
+    
 }
 
 /*
@@ -94,8 +95,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+ 
 .menuheader{
     padding: 10px
+}
+
+img{
+    margin: 0 auto;
+    max-width: 100%;
+   
 }
  .myname{
      font-family: 'Lato', sans-serif;
